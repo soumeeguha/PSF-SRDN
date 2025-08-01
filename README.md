@@ -21,7 +21,6 @@ git clone https://github.com/soumeeguha/PSF-SRDN.git
 cd PSF-SRDN
 conda env create -f environment.yml
 conda activate psf_srdn
-pip install -e .
 ```
 
 ### Usage
