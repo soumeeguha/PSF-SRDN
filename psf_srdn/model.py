@@ -9,7 +9,7 @@ import torch
 from torch import nn, einsum
 import torch.nn.functional as F
 
-# from einops_exts import check_shape, rearrange_many
+# https://github.com/huggingface/blog/blob/main/annotated-diffusion.md
 
 def exists(x):
     return x is not None
