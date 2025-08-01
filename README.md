@@ -15,11 +15,14 @@ git clone https://github.com/soumeeguha/PSF-SRDN.git
 cd PSF-SRDN
 conda env create -f environment.yml
 conda activate psf_srdn
+pip install torch==1.12.0+cu113 torchvision==0.13.0+cu113 torchaudio==0.12.0+cu113 --extra-index-url https://download.pytorch.org/whl/cu113
+
 pip install -e .
 ```
 
 ### Usage
-
+```
+```
 python main.py --root /path/to/images --epochs 150 --cuda_id 0
 
 ### Requirements
