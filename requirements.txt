@@ -1,0 +1,15 @@
+einops==0.6.0
+matplotlib==3.7.0
+numpy==1.24.4
+pandas==1.4.0
+pillow==10.3.0
+scikit-image==0.18.3
+scikit-learn==1.0.2
+scipy==1.10.1
+seaborn==0.11.2
+sklearn==0.0
+torch==1.12.0+cu113
+torchaudio==0.12.0+cu113
+torchmetrics @ file:///home/conda/feedstock_root/build_artifacts/torchmetrics_1651830953557/work
+torchvision==0.13.0+cu113
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1691671248568/work
