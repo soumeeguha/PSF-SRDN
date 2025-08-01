@@ -13,9 +13,10 @@ Phantom Dataset is provided in the folder "phantom/"
 ```bash
 git clone https://github.com/soumeeguha/PSF-SRDN.git
 cd PSF-SRDN
+conda env create -f environment.yml
+conda activate psf-srdn
 pip install -e .
 ```
-Install all required dependencies from requirements.txt:
 
 ### Usage
 
