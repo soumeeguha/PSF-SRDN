@@ -20,4 +20,4 @@ dependencies:
       - torchvision==0.13.0+cu113
       - torchaudio==0.12.0+cu113
       - --extra-index-url https://download.pytorch.org/whl/cu113
-      - torchmetrics  # if needed
+      - torchmetrics==0.9.3
