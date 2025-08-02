@@ -26,7 +26,6 @@ conda activate psf_srdn
 ### Usage
 ```
 python main.py --root /path/to/images --epochs 150 --cuda_id 0
-
 ```
 
 ### Requirements
