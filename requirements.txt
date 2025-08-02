@@ -11,6 +11,6 @@ seaborn==0.11.2
 sklearn==0.0
 torch==1.12.0+cu113
 torchaudio==0.12.0+cu113
-torchmetrics @ file:///home/conda/feedstock_root/build_artifacts/torchmetrics_1651830953557/work
+torchmetrics==0.9.3
 torchvision==0.13.0+cu113
-tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1691671248568/work
+tqdm==4.65.0
